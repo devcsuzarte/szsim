@@ -1,0 +1,164 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "\"%@\" will be permanently removed." : {
+
+    },
+    "%@ — %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ — %2$@"
+          }
+        }
+      }
+    },
+    "%@ · UDID %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ · UDID %2$@"
+          }
+        }
+      }
+    },
+    "A route named \"%@\" already exists. Overwrite?" : {
+
+    },
+    "Back to start (⌘R)" : {
+
+    },
+    "Bike" : {
+
+    },
+    "Cancel" : {
+
+    },
+    "Car" : {
+
+    },
+    "Click the map to add" : {
+
+    },
+    "Current route" : {
+
+    },
+    "Default profile" : {
+
+    },
+    "Delete" : {
+
+    },
+    "Delete route" : {
+
+    },
+    "Delete route?" : {
+
+    },
+    "Export GPX" : {
+
+    },
+    "Follow streets" : {
+
+    },
+    "Frequency: %lld Hz" : {
+
+    },
+    "How often the position is sent to the simulator (max %lld Hz)." : {
+
+    },
+    "Import GPX" : {
+
+    },
+    "Location sending" : {
+
+    },
+    "Loop" : {
+
+    },
+    "Mode" : {
+
+    },
+    "No points yet" : {
+
+    },
+    "No results" : {
+
+    },
+    "No saved routes" : {
+
+    },
+    "No simulator running" : {
+
+    },
+    "Open an iOS simulator to start sending locations. SZSIM automatically detects devices with Booted status." : {
+
+    },
+    "Open Simulator" : {
+
+    },
+    "Overwrite" : {
+
+    },
+    "Play/Pause (Space)" : {
+
+    },
+    "Profile" : {
+
+    },
+    "Refresh" : {
+
+    },
+    "Refresh simulator list" : {
+
+    },
+    "Requires Xcode 14 or later" : {
+
+    },
+    "Route" : {
+
+    },
+    "Route name" : {
+
+    },
+    "Route simulator for iOS" : {
+
+    },
+    "Save" : {
+
+    },
+    "Save route" : {
+
+    },
+    "Saved (%lld)" : {
+
+    },
+    "Search address or paste lat, lon" : {
+
+    },
+    "Search saved routes" : {
+
+    },
+    "Simulator" : {
+
+    },
+    "Speed" : {
+
+    },
+    "Straight line" : {
+
+    },
+    "SZSIM" : {
+
+    },
+    "Tab" : {
+
+    },
+    "Walk" : {
+
+    }
+  },
+  "version" : "1.0"
+}
