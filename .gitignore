@@ -64,8 +64,9 @@ fastlane/test_output
 # macOS
 .DS_Store
 
-# Local build output (xcodebuild -derivedDataPath build)
+# Local build output (xcodebuild -derivedDataPath build) and packaged artifacts
 build/
+dist/
 
 # Claude Code local settings (machine-specific permissions)
 .claude/settings.local.json
